@@ -1,0 +1,36 @@
+_repo: Operation-Terror_17870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: First published in 1962, Operation Terror is a novel of how humans respond
+  to the threat of an alien invasion.  Lockley, who suspects that humans traitors
+  may be involved in the alien attack, develops a portable device that deflects the
+  alien terror beams with unforeseen consequences.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+title: Operation Terror
+url: http://www.gutenberg.org/ebooks/17870
